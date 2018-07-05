@@ -1,0 +1,3 @@
+rootProject.name = 'RnDynamicLoad'
+
+include ':app', ':modelone', ':modeltwo', ':modelthree'
